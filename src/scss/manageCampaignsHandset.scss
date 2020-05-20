@@ -1,0 +1,47 @@
+@media screen and (max-width: 729px) {
+    .App {
+        width: 100%;
+        div {
+            .manage-campaigns-wrapper {
+                display: block;
+                margin-bottom: 15px;
+                .manage-campaigns-heading {
+                    display: block;
+                    width: 100%;
+                    margin-bottom: 15px;
+                }
+                .change-language-container {
+                    display: block;
+                    width: 100%;
+                    text-align: left;
+                }
+            }
+
+            .manage-campaigns-data {
+                .campaign-row {
+                    .view-campaign-pricing {
+                        .view-pricing {
+                            display: block;
+                            .view-pricing-icon {
+                                display: inline-block;
+                            }
+                            .view-pricing-text {
+                                display: inline-block;
+                            }
+                        }
+                    }
+                    .campaign-actions {
+                        .report {
+                            margin-top: 10px;
+                        }
+                    }
+                }
+            }
+
+            .view-pricing-modal {
+                top: 35%;
+                left: 10%;
+            }
+        }
+    }
+}
