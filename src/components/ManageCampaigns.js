@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import axios from 'axios';
+import campaignsData from '../json/campaigns-data.json';
 import Header from './Header';
 import SubHeader from './SubHeader';
 import NavigationBar from './NavigationBar';
@@ -16,14 +16,8 @@ class ManageCampaigns extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://localhost:3000/json/campaigns-data.json')
-            .then(response => {
-                const sortedCampaignsData = this.transformData(response.data);
-                this.props.setCampaignsData(sortedCampaignsData);
-            })
-            .catch(error => {
-                console.log(error);
-            });
+        const sortedCampaignsData = this.transformData(campaignsData);
+        this.props.setCampaignsData(sortedCampaignsData);
     }
 
     transformData = campaignsData => {

@@ -10,7 +10,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-garenafreefire.png"
+      "image_url": "../images/Bitmap-garenafreefire.png"
     },
     {
       "name": "Need for Speed No Limits",
@@ -23,7 +23,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-needforspeed.png"
+      "image_url": "../images/Bitmap-needforspeed.png"
     },
     {
       "name": "Auto Chess",
@@ -36,7 +36,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-autochess.png"
+      "image_url": "../images/Bitmap-autochess.png"
     },
     {
       "name": "PUBG MOBILE",
@@ -49,7 +49,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-pubgmobile.png"
+      "image_url": "../images/Bitmap-pubgmobile.png"
     },
     {
       "name": "Flow Free",
@@ -62,7 +62,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-flowfree.png"
+      "image_url": "../images/Bitmap-flowfree.png"
     },
     {
       "name": "MORTAL KOMBAT",
@@ -75,7 +75,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-mortalkombat.png"
+      "image_url": "../images/Bitmap-mortalkombat.png"
     },
     {
       "name": "Summoners War",
@@ -88,7 +88,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-summonerswar.png"
+      "image_url": "../images/Bitmap-summonerswar.png"
     },
     {
       "name": "Shadow Fight 3",
@@ -101,7 +101,7 @@
       },
       "csv": "https://www.google.com",
       "report": "https://www.google.com",
-      "image_url": "http://localhost:3000/images/Bitmap-shadowfight.png"
+      "image_url": "../images/Bitmap-shadowfight.png"
     }
   ]
 }

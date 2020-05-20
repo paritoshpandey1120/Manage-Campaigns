@@ -2,9 +2,14 @@
     .App {
         .manage-campaigns-data {
             .campaign-row {
+                .view-campaign-pricing {
+                    .view-pricing {
+                        margin-top: 5px;
+                    }
+                }
                 .campaign-actions {
                     .schedule-again {
-                        margin-top: 10px;
+                        margin-top: 5px;
                     }
                 }
             }

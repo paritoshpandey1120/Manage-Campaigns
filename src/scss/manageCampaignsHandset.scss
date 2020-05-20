@@ -1,6 +1,5 @@
 @media screen and (max-width: 729px) {
     .App {
-        width: 100%;
         div {
             .manage-campaigns-wrapper {
                 display: block;
@@ -19,20 +18,9 @@
 
             .manage-campaigns-data {
                 .campaign-row {
-                    .view-campaign-pricing {
-                        .view-pricing {
-                            display: block;
-                            .view-pricing-icon {
-                                display: inline-block;
-                            }
-                            .view-pricing-text {
-                                display: inline-block;
-                            }
-                        }
-                    }
                     .campaign-actions {
                         .report {
-                            margin-top: 10px;
+                            margin-top: 5px;
                         }
                     }
                 }
